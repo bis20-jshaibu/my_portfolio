@@ -12,4 +12,22 @@ HTML – Structure of the web pages.
 CSS – Styling and responsiveness.
 JavaScript – Adds interactivity (menu toggle, image slider).
 
+
+## 🚀 Live Demo  
+
+You can view my portfolio here: [My Portfolio Website](https://bis20-jshaibu.github.io/my_portfolio/)  
+
+---
+
+## 📥 Cloning the Repository  
+
+To get a copy of this project on your local machine, follow these steps:  
+
+1. Open your terminal or command prompt.  
+2. Navigate to the directory where you want to clone the repository.  
+3. Run the following command:  
+
+   ```bash
+   git clone https://github.com/bis20-jshaibu/my_portfolio.git
+
 🎉 Thank you for checking out my portfolio! I hope you find it insightful. 🚀
