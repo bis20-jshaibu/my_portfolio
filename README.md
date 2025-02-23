@@ -32,12 +32,13 @@ To get a copy of this project on your local machine, follow these steps:
 
 ## 📥 project structure   
 my_portfolio/
-│── images/               # Folder containing project images  
-│── index.html            # Main portfolio page  
-│── portfolio.html        # Portfolio details page  
-│── contact.html          # Contact page  
-│── style.css             # Stylesheet for the website  
-│── script.js             # JavaScript file for interactivity  
-│── README.md             # Project documentation  
+
+── images/               # Folder containing project images  
+── index.html            # Main portfolio page  
+── portfolio.html        # Portfolio details page  
+── contact.html          # Contact page  
+── style.css             # Stylesheet for the website  
+── script.js             # JavaScript file for interactivity  
+── README.md             # Project documentation  
 
 🎉 Thank you for checking out my portfolio! I hope you find it insightful. 🚀
